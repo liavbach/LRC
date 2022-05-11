@@ -27,3 +27,15 @@ Wrapper for optimizer initialization
 
 
 
+#### Citation
+In case of mentionaning the paper please use the following bibtex citation:
+```
+@inproceedings{bachar2021learning,
+  title={Learning Centrality by Learning to Route},
+  author={Bachar, Liav and Elyashar, Aviad and Puzis, Rami},
+  booktitle={International Conference on Complex Networks and Their Applications},
+  pages={247--259},
+  year={2021},
+  organization={Springer}
+}
+```
